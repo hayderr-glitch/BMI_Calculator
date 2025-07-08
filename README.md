@@ -20,7 +20,7 @@ Here's what the app looks like.
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="docs/screenshot2.png" width="250" alt="App Result Screen Underweight">
   <br><br>
-  <img src="docs/screenshot3.png" width="300" alt="App Result Screen Normalweight">
+  <img src="docs/screenshot3.png" width="250" alt="App Result Screen Normalweight">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="docs/screenshot4.png" width="250" alt="App Result Screen Overweight">
 </p>
