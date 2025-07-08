@@ -13,12 +13,16 @@ This application allows users to input their height and weight to calculate thei
 
 ## Screenshots
 
-Here's what the app looks like. Please note that the image paths below are placeholders. You should replace them with actual screenshots of your application. A good practice is to create a `docs` or `screenshots` folder in your project root to store them.
+Here's what the app looks like.
 
 <p align="center">
-  <img src="docs/screenshot_input.png" width="250" alt="App Input Screen">
+  <img src="docs/screenshot1.png" width="250" alt="App Input Screen">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="docs/screenshot_result.png" width="250" alt="App Result Screen">
+  <img src="docs/screenshot2.png" width="250" alt="App Result Screen Underweight">
+  <br><br>
+  <img src="docs/screenshot3.png" width="300" alt="App Result Screen Normalweight">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="docs/screenshot4.png" width="250" alt="App Result Screen Overweight">
 </p>
 
 ## Getting Started
